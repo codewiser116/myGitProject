@@ -1,2 +1,3 @@
 This is documentation
-nother line
+
+This is an auotmation project based on Maven
